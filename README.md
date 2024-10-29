@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @polesanababa
+- 👋 Hi, I’m Jeremy
 - 👀 I’m interested in HTML and Python of which I am still learning
-- 🌱 I’m currently learning HTML and Python
+- 🌱 I’m currently learning HTML and Python along with Javascript very soon
 - 💞️ I’m looking to collaborate on nothing as I am very scared to collab as I think I will do bad in the collab
 - 📫 How to reach me - Please do not reach me just yet
 - 😄 Pronouns: ... He/Him
